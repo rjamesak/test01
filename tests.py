@@ -14,7 +14,7 @@ class TestCase(unittest.TestCase):
         self.assertNotEqual(task.my_func(), expected)
 
     # test3
-    def test2(self):
+    def test3(self):
         expected = "Goodbye New World"
         self.assertNotEqual(task.my_func(), expected)
 
